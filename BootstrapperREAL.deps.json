@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BootstrapperREAL/1.0.0": {
+        "runtime": {
+          "BootstrapperREAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BootstrapperREAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
